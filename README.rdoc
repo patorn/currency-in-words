@@ -2,7 +2,14 @@
 
 Provides a view helper for Rails that displays a currency amount in words (eg. <tt>number_to_currency_in_words(100)</tt> \=> 'one hundred dollars').
 
-This helper comes with two supported locales (English and French) but it is possible and easy to implement your own (see "Implementing a new locale").
+This helper comes with a few supported locales but it is possible and easy to implement your own (see "Implementing a new locale").
+
+== Supported Languages
+
+* English
+* French
+* Thai
+
 
 == Installation
 
